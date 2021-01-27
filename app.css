@@ -1,0 +1,8 @@
+footer div p a{
+    text-decoration: none;
+    color: white;
+}
+footer div p a:hover {
+    color: grey;
+    text-decoration: none;
+}
